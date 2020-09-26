@@ -7,42 +7,7 @@ and open the template in the editor.
     Created on : 27 nov. 2019, 16:51:01
     Author     : HELVYNE
 */
-form{
-    width: 320px;
-    margin:0 auto;
-    border: 1px solid #000;
-    border-radius: 3%;
-    color: #00FF00;
-   
-    
-}
-#form-content{
-    margin: 10px 20px 10px 20px;
-}
-input{
-    width: 100%
-}
-input[type="radio"]{
-    width: 10%
-    
-}
-button[type="button"]{
-    margin: 0px 0px 0px 150px;
-    background-color: #0ff0ff;   
-}
-mark{
-    background-color: #f000f2;
-}
-button[type="reset"]{
-    background-color: chartreuse;
-}
-#form-content{
-    margin:10px 20px 10px 20px;
-}
 
-#bloc-content{
-    text-align:center;
-}
 
 
     
