@@ -7,6 +7,15 @@ and open the template in the editor.
     Created on : 27 nov. 2019, 16:51:01
     Author     : HELVYNE
 */
+.bloc {
+ margin-top: 0px;
+ margin-bottom: 33,33cm;
+ margin-left: 179px;
+ margin-right: 250px;
+}
+.col1{
+    color: black;
+}
 
 
 
