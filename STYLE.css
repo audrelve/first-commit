@@ -7,14 +7,11 @@ and open the template in the editor.
     Created on : 27 nov. 2019, 16:51:01
     Author     : HELVYNE
 */
-.col-1{
-    color: black;
-    right: 35%;
-    width: 75%;
-    top: auto;
-    left: 33,33%;
-}
 
+body
+{
+background-color:#797979;
+}
 
 
 
