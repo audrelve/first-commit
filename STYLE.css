@@ -17,10 +17,12 @@ nav{
     margin-bottom: 0px;
 }
 .bloc-2{
-    width: 50px;
-   background-color: black;
-    padding: 350px;
-    margin:450 px; 
+    margin-top: 70px;
+    height: 100px;
+    position: relative;
+    margin-bottom: 100px;
+    background-color: black;
+    
 }
 
 
