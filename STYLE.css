@@ -1,6 +1,28 @@
 body{ 
 background-color: #797979;
 }
+.BLOC-1{
+position: absolute; 
+ width:400px ;
+ top: 70PX;
+ left: 700PX;  
+}
+nav{ 
+
+    width: 600px; 
+    margin: auto; 
+    border: 1px solid rgb(75, 70, 70);
+    margin-top: 70px;
+    padding: 500px;
+    margin-bottom: 0px;
+}
+.bloc-2{
+    width: 50px;
+   background-color: black;
+    padding: 350px;
+    margin:450 px; 
+}
+
 
     
 
