@@ -1,9 +1,16 @@
 body{
-color: #808080;
-
+ background-color: #808080;
 }
 p{
     color: white;
+}
+section{
+    border: solid;
+    left: 100px;
+    top: 70px;
+    width: 100px;
+    bottom: 0px;
+    
 }
 
 
