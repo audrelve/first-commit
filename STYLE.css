@@ -132,30 +132,10 @@ p{
        text-align: center;
        line-height: 50px;
  }
- #bloc-4 img{
-    width: 350px;
-    padding: 12px;
-    margin: 50px; 
-    float: left;
- }
- #bloc-5 img{
 
- }
-  #bloc-6 img{
-    float: left; ;
- }
- #bloc-7 img{
-    float: right; 
- }   
- #bloc-8 img{
-    float: left; ;
- }
- #bloc-9 img{
-   float: right;  
- }
- #bloc-10 img{
-    float: right;
- }
- #bloc-11 img{
-  float: right;   
- }
+    #bloc-img img {
+        display: inline-block;
+        padding: 5px;
+        margin: 5px;
+        width: 256px;
+    }
