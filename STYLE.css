@@ -105,6 +105,7 @@ p{
 }
 #text h1{
     text-align: center;
+    padding-top: 43px;
 }
 
 #text p{
@@ -131,12 +132,44 @@ p{
        text-align: center;
        line-height: 50px;
  }
+ #bloc-img{
+    margin-left: auto; 
+    justify-items: center; 
+    text-align: center;
+    margin-top: 30px;
+ }
 
-    #bloc-img img {
+ #bloc-img img {
         display: inline-block;
-        padding: 5px;
-        margin: 5px;
-        width: 200px;
-        height: 200px;
-        margin-left: 60px;
+        width: 250px;
+        height: 250px;
+        margin-left: 5px;
+        
+    }
+    .boutton{
+       border-radius: 60px ;
+        text-align: center;
+        margin-top: 80px;
+        background-color: black;
+        padding: 10px 40px 10px 40px ;
+    text-decoration: none;
+    color: white;
+    }
+    .push{
+        text-align: center;
+        margin-top: 60px;
+
+    }
+    aside{
+     background-color: rgb(225, 252, 252);  
+     height: 500px; 
+     margin-top:-24px ;
+     padding: 30px;
+     text-align: center;
+    }
+    #article-1 h1 {
+     margin-top: -21px; 
+     height: 24px;
+    font-size: 20px;
+
     }
