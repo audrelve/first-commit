@@ -84,8 +84,8 @@ section{
  }
  article{
      background-color: #ffffff;
-     height: 800px;
-     margin-bottom: -18px;
+     height: 1092px;
+    
  }
  #bloc-2 img {
     float: left;
@@ -104,8 +104,7 @@ p{
     color: black;
 }
 #text h1{
-    margin-left: 489px;
-    padding-top: 57px;
+    text-align: center;
 }
 
 #text p{
@@ -137,5 +136,7 @@ p{
         display: inline-block;
         padding: 5px;
         margin: 5px;
-        width: 256px;
+        width: 200px;
+        height: 200px;
+        margin-left: 60px;
     }
