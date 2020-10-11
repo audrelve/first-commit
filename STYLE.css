@@ -271,3 +271,7 @@ p{
             color: white;
             font-size: 17px;
         }
+        #contact li{
+            display:table-cell ;
+        padding-top: 50px;
+        }
