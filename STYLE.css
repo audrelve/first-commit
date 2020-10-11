@@ -220,6 +220,7 @@ p{
         margin-right: 196px;
         margin-left: 196px;
         height: 179px;
+  
      }
      #new img{
         float: right;
@@ -240,4 +241,24 @@ p{
         margin-top: -47px;
         color: #736666;
      }
-    
+     footer{
+         background: black;
+         height: 300px;
+         text-align: center;
+         margin-top: -16px;
+         padding-top: 57px;
+           }
+            #fin p{
+                height: 30px;
+                border: 10px;
+                background: yellow;
+                padding-top: 5px;
+                margin-top: -11px;
+                margin-left: 402px;
+                margin-right: 429px;
+                font-size: 17px;
+            }
+         #fin strong{
+             color: white;
+             font-size: 40px;
+         }
