@@ -117,10 +117,10 @@ p{
     height: 50px;
     }
     #liste-1 { 
-       display: table;
-       margin-left: auto;
-       margin-right: auto;
-       margin-top: 0px;
+        display: table;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 0px;
    }
    #liste-1 li {
        width: 150px;
@@ -262,3 +262,12 @@ p{
              color: white;
              font-size: 40px;
          }
+        #media li{
+            width: 325px;
+            display:table-cell ;
+        }
+        #media a{
+            text-decoration:none;
+            color: white;
+            font-size: 17px;
+        }
