@@ -84,7 +84,7 @@ section{
  }
  article{
      background-color: #ffffff;
-     
+     height: 1207px;
     
  }
  #bloc-2 img {
@@ -187,8 +187,8 @@ p{
     input[ type="text"]{
         background: #fff;
         padding: 0px 37px;
-        height: 40px;
-        width: 213px;
+        height: 50px;
+        width: 309px;
         border: none;
         outline: none;
     }
@@ -197,7 +197,7 @@ p{
     margin-left: -5px;
    border: none;
   outline: none;
-  height: 40px;
+  height: 50px;
   width:165px;
     }
     #new{
@@ -212,14 +212,32 @@ p{
         height: 24px;
        font-size: 35px;
        margin-left:120px ;
-       margin-left:88px ;
+       margin-left:111px ;
     }
     #new p{
-        padding: 58px 23px;
-        border-width: 5px 20px;
+        padding: 49px 124px;
         background-color: #f3f3f3;
-        margin-right: 138px;
-        margin-left: 321px;
-        height: 147px;
+        margin-right: 196px;
+        margin-left: 196px;
+        height: 179px;
+     }
+     #new img{
+        float: right;
+        height: 199px;
+        margin-right: 105px;
+        width: 177px;
+        margin-top: -285px;
+     }
+     #new h3{
+        float: right;
+        margin-right: 127px;
+        margin-top: -84px;
+        font-size: 26px;
+     }
+     #new h5{
+        float: right;
+        margin-right: 158px;
+        margin-top: -47px;
+        color: #736666;
      }
     
