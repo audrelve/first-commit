@@ -1,0 +1,352 @@
+menu{
+    background: #5d5d5d;
+    height: 50
+   px;
+    float: right;
+    width: 559px;
+    }
+   #liste{ 
+       display: table;
+       margin-left: auto;
+       margin-right: auto;
+       margin-top: 0px;
+   }
+   #liste li {
+       width: 150px;
+       display:table-cell ;
+   }
+   #liste a{
+       color: white;
+       text-decoration: none;
+       text-align: center;
+       line-height: 50px;
+   }
+   #image img{
+       width: 559px;
+       float: right;
+        }
+   
+   
+   
+    .contener{
+       height: 1471px;
+       margin-top: 0px;
+       background-color: #ececec;
+       margin-bottom: -18px;
+    }
+    article{
+        background-color: #ffffff;
+        height: 1207px;
+       
+    }
+    #bloc-2 img {
+       float: left;
+       width: 355px;
+       margin-top: 62px;
+       margin-left: 142px;
+       box-shadow: black;
+       box-shadow: -55px -41px 15px black;
+    }
+   .bloc2-1{
+       float: right;
+       width: 411px;
+       margin-top: 107px;
+   }
+   p{
+       color: black;
+   }
+   #text h1{
+       text-align: center;
+       padding-top: 43px;
+   }
+   
+   #text p{
+       margin-top: -20px;
+       margin-left: 481px;
+   }
+   .bloc-3{
+      
+       height: 50px;
+       }
+       #liste-1 { 
+           display: table;
+           margin-left: auto;
+           margin-right: auto;
+           margin-top: 0px;
+      }
+      #liste-1 li {
+          width: 150px;
+          display:table-cell ;
+      }
+      #liste-1 a{
+         color: black;
+          text-decoration: none;
+          text-align: center;
+          line-height: 50px;
+    }
+    #bloc-img{
+       margin-left: auto; 
+       justify-items: center; 
+       text-align: center;
+       margin-top: 30px;
+    }
+   
+    #bloc-img img {
+           display: inline-block;
+           width: 250px;
+           height: 250px;
+           margin-left: 5px;
+           
+       }
+       .boutton{
+          border-radius: 60px ;
+           text-align: center;
+           margin-top: 80px;
+           background-color: black;
+           padding: 10px 40px 10px 40px ;
+       text-decoration: none;
+       color: white;
+       }
+       .push{
+           text-align: center;
+           margin-top: 60px;
+   
+       }
+       aside{
+        background-color: rgb(225, 252, 252);  
+        height: 300px; 
+        margin-top:-24px ;
+        padding: 30px;
+        text-align: center;
+       }
+       #article-1 h1 {
+        margin-top: -21px; 
+        height: 24px;
+       font-size: 35px;
+       margin-left:88px ;
+       }
+   
+       .enter{
+        text-align: center;
+   
+       }
+        input {
+           
+           padding: 10px 40px;
+          
+           
+       }
+       input[ type="text"]{
+           background: #fff;
+           padding: 0px 37px;
+           height: 50px;
+           width: 309px;
+           border: none;
+           outline: none;
+       }
+       input[ type="submit"] {
+      background: yellow;
+       margin-left: -5px;
+      border: none;
+     outline: none;
+     height: 50px;
+     width:165px;
+       }
+       #new{
+           background-color: white;
+           height: 500px;
+           margin-top: -22px;
+           text-align: center;
+           padding-top: 87px;
+       }
+       #new h1{
+           margin-top: -21px; 
+           height: 24px;
+          font-size: 35px;
+          margin-left:120px ;
+          margin-left:111px ;
+       }
+       #new p{
+           padding: 49px 124px;
+           background-color: #f3f3f3;
+           margin-right: 196px;
+           margin-left: 196px;
+           height: 179px;
+     
+        }
+        #new img{
+           float: right;
+           height: 199px;
+           margin-right: 105px;
+           width: 177px;
+           margin-top: -285px;
+        }
+        #new h3{
+           float: right;
+           margin-right: 127px;
+           margin-top: -84px;
+           font-size: 26px;
+        }
+        #new h5{
+           float: right;
+           margin-right: 158px;
+           margin-top: -47px;
+           color: #736666;
+        }
+        footer{
+            background: black;
+            height: 300px;
+            text-align: center;
+            margin-top: -16px;
+            padding-top: 57px;
+            padding-bottom: 15px ;
+              }
+               #fin p{
+                   height: 30px;
+                   border: 10px;
+                   background: yellow;
+                   padding-top: 5px;
+                   margin-top: -11px;
+                   margin-left: 402px;
+                   margin-right: 429px;
+                   font-size: 17px;
+               }
+            #fin strong{
+                color: white;
+                font-size: 40px;
+            }
+           #media li{
+               width: 325px;
+               display:table-cell ;
+           }
+           #media a{
+               text-decoration:none;
+               color: white;
+               font-size: 17px;
+           }
+           #contact li{
+               display:table-cell ;
+           padding-top: 50px;
+           }
+
+
+
+
+
+
+
+
+           <div>
+           <div class="contener">
+       
+             <div id="bloc-2">
+               <img src="images/audrey.jpeg" alt="photo">
+             </div>
+             <div class="bloc2-1">
+               <h1>HELLO </h1>
+               <p> Structuré en processus, CobiT prend en compte les besoins des métiers,
+                 et plus généralement des parties prenantes, dans une logique d’amélioration continue. Le préalable à toute
+                 diffusion de CobiT est donc la diffusion
+                 d’une culture de l’amélioration au service des clients de la DSI. Cette approche
+                 rappelle l’ISO 9001. <br />
+                 Les entrées des processus CobiT sont basées sur les exigences négociées des parties prenantes (métiers, etc.)
+                 conduisant à des objectifs.
+                 Ensuite, l’exécution des processus est garantie par des responsabilités
+                 clairement affectées et des mesures de performances face aux objectifs
+                 fixés. La satisfaction des « clients » fait partie des mesures de performance. </p>
+             </div>
+       
+       
+           </div>
+           <article>
+             <div id="text">
+               <h1> MY WORK</h1>
+               <p> awesome projects</p>
+             </div>
+       
+             <div class="bloc-3">
+               <ul id="liste-1">
+                 <li><a href="index.html">ALL</a></li>
+                 <li><a href="index.html">GRAPHIC</a></li>
+                 <li><a href="index.html">VIdeo</a></li>
+                 <li><a href="index.html">WEBDESIGN</a></li>
+                 <li><a href="index.html">BANDING</a></li>
+               </ul>
+             </div>
+       
+             <div id="bloc-img">
+       
+               <img src="images/fluide.jpg" alt=" image 1">
+               <img src="images/logo tp.PNG" alt="image 2">
+               <img src="images/FIGURE.PNG " alt="image 3"> <br>
+               <img src="images/fluide.jpg" alt="image 4">
+               <img src="images/logo tp.PNG" alt="image 5">
+               <img src="images/contact.PNG" alt="image 6"> <br>
+               <img src="images/bit2.jpg" alt="image 7">
+               <img src="images/bit3.jpg" alt="image 8">
+               <img src="images/bit4.jpg" alt="image 9">
+       
+       
+             </div>
+             <div class="push">
+               <a class="boutton" href="index.html">LOAD MORE</a>
+       
+             </div>
+       
+       
+       
+           </article>
+       
+           <aside>
+             <div id="article-1">
+               <h4> Subsribe to </h4>
+               <h1> MY BLOG </h1>
+               <P> it is a fact that a reader will be distracted by the <br> readable content of a page when looking </P>
+             </div>
+             <div class=" enter">
+               <form>
+                 <input type="text" name="" placeholder="Enter Your Email">
+                 <input type="submit" name="" value="Subscibe Now">
+               </form>
+             </div>
+           </aside>
+           <div id="new">
+             <h4> some reviews of </h4>
+             <h1> MY CLIENTS.</h1>
+       
+             <p> Je crois à l'amitié comme je crois au soleil qui m'éclaire : je jouis de la lumière de l'un et de la chaleur
+               de l'autre, mais sans prétendre les retenir en dépit de la nature et d'elles-mêmes. <br>J'y crois, mais je crois
+               aussi aux éclipses, et je suis sûr que décembre viendra.</p>
+             <img src="images/audrey.jpeg" alt="image 10">
+       
+             <h3> HELVYNE </h3>
+             <h5> developpeur </h5>
+       
+           </div>
+           <footer>
+             <div id="fin">
+               <p> Get in touch.. </p> <strong>contact </strong>
+             </div>
+       
+             <ul id="media">
+               <li> <a href="index.html"> <img src="images/photo3.png" alt="image11"> helvynete745@gmail.com </a></li>
+               <li> <a href="index.html"> <img src="images/photo1.png" alt="image11"> 698129995/678879958 </a></li>
+               <li> <a href="index.html"> <img src="images/photo5.png" alt="image11"> cameroun-douala-pk13 </a></li>
+             </ul>
+             <div id="contact">
+       
+       
+               <ul>
+                 <li> <img src="images/photo9.png" alt="image11"> </li>
+                 <li> <img src="images/photo2.png" alt="image11"></li>
+                 <li> <img src="images/photo4.png" alt="image11"> </li>
+                 <li> <img src="images/photo7.png" alt="image11"> </li>
+               </ul>
+             </div>
+       
+       
+       
+       
+           </footer>
+         </div>
+       
