@@ -70,7 +70,7 @@ a:hover{
 
 .infos{
     position: absolute;
-    top: 50%;
+    top: 60%;
     left: 10%;
     font-size: 2em;
 }
@@ -120,7 +120,7 @@ a:hover{
 
 .section-gray{
     background-color: #ececec;
-    height: 600px;
+    height: 475px;
     width: 100%;
     display: flex;
     padding-top:10%;
@@ -150,6 +150,7 @@ a:hover{
 .profile{
     height: 350px;
     width: 100%;
+    margin-bottom: 10px;
 }
 
 .presentation{
@@ -180,14 +181,41 @@ a:hover{
 }
 .picture .circles{
     display: flex;
-   padding: 10px; 
-   margin-top:01.5px;
+   padding: 5px; 
+   margin-top:0.75px;
+   position:relative;
+   right: -47%;
+   
 }
 .picture .circle{
-    height: 5px;
-    width: 5px;
-    background-color: rgb(31, 31, 31);
+    height: 3px;
+    width: 3px;
+    background-color: rgb(92, 91, 91);
     margin-left: 10px;
     
     border-radius: 50%;
+}
+/**
+* ceci est la description de mon project
+**/
+.section-project{
+    height: 500px;
+    width: 100%;
+}
+
+.names{
+    font-size: 3em;
+    font-weight: bold;
+    color: black;
+
+
+}
+
+.project{
+    padding-top:10px ;
+    text-align: center;
+    margin-top: 70px;
+}
+  .project p{
+    margin-top:-15px ;
 }
