@@ -70,7 +70,7 @@ a:hover{
 
 .infos{
     position: absolute;
-    top: 60%;
+    top: 50%;
     left: 10%;
     font-size: 2em;
 }
@@ -192,30 +192,64 @@ a:hover{
     width: 3px;
     background-color: rgb(92, 91, 91);
     margin-left: 10px;
-    
     border-radius: 50%;
 }
 /**
 * ceci est la description de mon project
 **/
 .section-project{
-    height: 500px;
+    height: 1500px;
     width: 100%;
+    margin-bottom: 10px;
 }
 
 .names{
     font-size: 3em;
     font-weight: bold;
     color: black;
-
-
 }
 
-.project{
+.projects{
     padding-top:10px ;
     text-align: center;
-    margin-top: 70px;
+    
 }
-  .project p{
+  .projects p{
     margin-top:-15px ;
+}
+.item a{
+    text-decoration: none;
+    color:black;
+    margin-bottom: 10px;
+}
+.section-project .navItems{
+    margin-left: 13%;
+}
+.images{
+    display: flex;
+    height: 1000px;
+    width: 70%;
+    margin: auto;
+    flex-direction: row;
+    margin-top: 50px;
+   padding: 10px; 
+   flex-flow: row wrap;
+}
+.project{
+    height: 300px;
+    width: 300px;
+    margin: 5px;
+    
+}
+.bouton{
+    display: flex;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    border-radius: 10%;
+    margin: auto;
+    align-items: center;
+    width: 20%;
+    font-size: 2em;
+    padding: auto;
 }
