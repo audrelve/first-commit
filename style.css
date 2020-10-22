@@ -198,7 +198,7 @@ a:hover{
 * ceci est la description de mon project
 **/
 .section-project{
-    height: 1500px;
+    height: 1400px;
     width: 100%;
     margin-bottom: 10px;
 }
@@ -242,14 +242,152 @@ a:hover{
     
 }
 .bouton{
-    display: flex;
+    border-radius: 60px ;
+    text-align: center;
+    margin-top: 80px;
+    margin-right: 510px;
+    margin-left: 510px;
     background-color: black;
+    padding: 10px 40px 10px 40px ;
     text-decoration: none;
     color: white;
-    border-radius: 10%;
-    margin: auto;
-    align-items: center;
-    width: 20%;
     font-size: 2em;
-    padding: auto;
+
 }
+
+/*ceci est mon blog*/
+
+.section-subscribe{
+    background-color: rgb(182 241 241); 
+    height: 300px; 
+    width: 100%;
+    text-align: center;
+    padding-top: 115px;
+}
+
+.blog{
+    font-size: 4em;
+    margin-top: -53px;
+}
+
+h5{
+    margin-right: 156px;
+    font-size: 1.5em;
+}
+
+input {
+    padding: 10px 40px;     
+}
+
+input[ type="text"]{
+    background: #fff;
+    padding: 0px 37px;
+    height: 50px;
+    width: 309px;
+    border: none;
+    outline: none;
+           
+}
+
+input[ type="submit"] {
+    background: yellow;
+    margin-left: -5px;
+    border: none;
+    outline: none;
+    height: 50px;
+    width:165px;
+}
+
+/* ceci est la section reservee au client */
+
+.section-clients{
+    background-color: white;
+    height: 438px;
+    width: 100%;
+    text-align: center;
+    padding-top: 139px;
+}
+
+.client{
+    margin-top: -16px;
+    font-size: 3.5em;
+    margin-left: 303px; 
+}
+
+.some{
+    font-size: 1.5em;
+    margin-left: 237px;
+}
+
+.section-clients p{
+    padding: 49px 124px;
+    background-color: #fadede;
+    margin-right: 310px;
+    margin-left: 275px;
+    height: 179px;
+}
+
+.section-clients img{
+    float: right;
+    height: 199px;
+    margin-right: 199px;
+    width: 177px;
+    margin-top: -285px;
+}
+
+.section-clients h3{
+    float: right;
+    margin-right: 235px;
+    margin-top: -84px;
+    font-size: 26px;
+}
+
+.section-clients h4{
+    float: right;
+    margin-right: 261px;
+    margin-top: -47px;
+    color: #736666;
+} 
+
+/* ceci est mon footer*/
+
+footer{
+    background: black;
+    height: 300px;
+    text-align: center;
+    margin-top: -16px;
+    padding-top: 57px;
+    padding-bottom: 15px;
+}
+.finale p{
+    height: 30px;
+    border: 10px;
+    background: yellow;
+    padding-top: 5px;
+    margin-top: -11px;
+    margin-left: 496px;
+    margin-right: 540px;
+    font-size: 17px;
+}
+
+.finale strong{
+    color: white;
+    font-size: 40px;
+}
+
+.media li{
+    width: 420px;
+    display:table-cell ;
+}
+
+.media a{
+    text-decoration:none;
+    color: white;
+    font-size: 17px;
+}
+
+.contact li{
+    display:table-cell ;
+    padding-top: 50px;
+}
+
