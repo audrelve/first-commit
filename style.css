@@ -357,7 +357,8 @@ footer{
     text-align: center;
     margin-top: -16px;
     padding-top: 57px;
-    padding-bottom: 15px;
+    padding-bottom: 0px;
+   
 }
 .finale p{
     height: 30px;
@@ -376,8 +377,9 @@ footer{
 }
 
 .media li{
-    width: 100%;
+    width: 43%;
     display:table-cell ;
+    margin-left: 12px;
 }
 
 .media a{
