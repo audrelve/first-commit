@@ -373,15 +373,13 @@ footer{
 
 .finale strong{
     color: white;
-    font-size: 40px;
+    font-size: 4em;
 }
 
 .media li{
-    width: 43%;
-    display:table-cell ;
-    margin-left: 12px;
+    margin-left: 150px;
+    display: inline-flex;
 }
-
 .media a{
     text-decoration:none;
     color: white;
@@ -389,7 +387,6 @@ footer{
 }
 
 .contact li{
-    display:table-cell ;
-    padding-top: 50px;
+    padding-left: 12px;
+    display: inline-flex;
 }
-
